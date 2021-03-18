@@ -1,17 +1,6 @@
-<h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-pro.svg" alt="Font Awesome 5 Pro" width="50%"></h1>
+<h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-free.svg" alt="Font Awesome 5 Pro" width="50%"></h1>
 
-> Version 5 – the iconic SVG, font, and CSS framework
-
-The internet's most popular icon toolkit has been redesigned and built from
-scratch. On top of this, features like icon font ligatures, an SVG framework,
-official NPM packages for popular frontend libraries like React, and access to
-a new CDN.
-
-Not familiar with Font Awesome 5? [Learn
-more](https://www.kickstarter.com/projects/232193852/font-awesome-5) about our
-successful Kickstarter and plan. You can also **[order Font Awesome
-Pro](https://fontawesome.com/pro)** which includes tons more icons directly
-from [fontawesome.com](https://fontawesome.com).
+> Version 5 – the iconic SVG, font, and CSS framework 
 
 ## Documentation
 
@@ -36,18 +25,3 @@ Learn how to get started with Font Awesome and then dive deeper into other and a
 * [SVG symbols](https://fontawesome.com/how-to-use/on-the-web/advanced/svg-symbols)
 * [SVG JavaScript Core](https://fontawesome.com/how-to-use/on-the-web/advanced/svg-javascript-core)
 * [Server side rendering](https://fontawesome.com/how-to-use/server-side-rendering)
-
-
-
-# Commercial License
-The Font Awesome Pro commercial license allows you to pay for FA Pro once, own
-it, and use it just about everywhere you'd like.
-
-# Attribution
-Attribution is not required by the Font Awesome Pro commercial license.
-
-# Brand Icons
-All brand icons are trademarks of their respective owners. The use of these
-trademarks does not indicate endorsement of the trademark holder by Font
-Awesome, nor vice versa. **Please do not use brand logos for any purpose except
-to represent the company, product, or service to which they refer.**
